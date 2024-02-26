@@ -49,7 +49,12 @@ After data request.
 <br />
 
 <h2>UML Diagram</h2>
-NOTE: There are currently no functions defined within the microservice beyond creating the websocket. This will change during integration (Next sprint), when clear data processing parameters/queries are defined and implemented.
+<p>
+NOTE: There are currently no functions defined within the microservice beyond creating the websocket. This will change during integration (next sprint), when data processing parameters/queries are defined and implemented.
+</p>
+<p>
+The following: "process request", "Query for desired data set/Return desired data set", and "JSON-ify data" will all become functions when integrated.
+</p>
 <br/>
 <img src="https://imgur.com/4fVJQYm.png" alt="Before request"/>
 <br />
