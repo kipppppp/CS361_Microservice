@@ -48,4 +48,7 @@ After data request.
 <img src="https://imgur.com/2pWZi5H.png" alt="Enter desired move"/>
 <br />
 
-
+<h2>UML Diagram</h2>
+<br/>
+<img src="https://imgur.com/4fVJQYm.png" alt="Before request"/>
+<br />
