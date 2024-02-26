@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 <p>
-This project implements a websocket microservice that facilitates a transaction between a javascript webapp and NoSQL database. The webapp (written in python) returns JSON data related to the request. The current version returns sample player data, and is
+This project implements a websocket microservice that facilitates a transaction between a javascript webapp and NoSQL database. The microservice (written in python) returns JSON data related to the request. The current version returns sample player data, and is
 designed for one task. No specific request information is required at this point, but can be implemented if the function of the microservice expands to complete additional processes.
 </p>
 
