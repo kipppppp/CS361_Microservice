@@ -5,14 +5,18 @@ This project implements a websocket microservice that facilitates a transaction 
 <br />
 
 <h2>Languages Used</h2>
-- <b>Python</b>
-- <b>JavaScript</b>
-- <b>HTML</b>
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>HTML</li>
+</ul>
 
 <h2>Packages Used</h2>
-- <b>Websockets</b>
-- <b>asnycio</b>
-- <b>JSON</b>
+<ul>
+  <li>asyncio</li>
+  <li>Websockets</li>
+  <li>JSON</li>
+</ul>
 
 <h2>Example JS Call</h2>
 <p>
