@@ -32,7 +32,7 @@ designed for one task. No specific request information is required at this point
 <h2>Requesting/Receiving Data</h2>
 <h3>Requesting</h3>
 <p>
-  The code block below creates a websocket to read data sent from the localhost (127.0.0.1) at the specified port (65432). In this example, "button" is an html button element.
+  The code block below creates a websocket to request/read data sent from the localhost (127.0.0.1) at the specified port (65432). In this example, "button" is an html button element.
   When the button is selected, a request is made.
 </p>
 <code>button.addEventListener('click', () => {
