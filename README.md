@@ -19,9 +19,9 @@ designed for one task. No specific request information is required at this point
   <li>JSON</li>
 </ul>
 
-<h2>Example JS Call</h2>
+<h2>Requesting/Receiving Data</h2>
 <p>
-  In the code block below, "button" is an html button element. This event listener creates a websocket to read data sent from the localhost (127.0.0.1) at the specified port (65432).
+  The code block below creates a websocket to read data sent from the localhost (127.0.0.1) at the specified port (65432). In this example, "button" is an html button element. 
   The "onmessage" function below updates "heading", which is an html header element in this case. The text in "heading" is replaced by the received JSON data.
 </p>
 <code>button.addEventListener('click', () => {
